@@ -3,11 +3,11 @@ Contributors: johndeebdd
 Donate link: https://generalchicken.guru/
 Tags: rollback, email, admin_email, change_admin_email
 Requires at least: 4.9
-Tested up to: 6.9.4
+Tested up to: 7.1
 Requires PHP: 5.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Stable tag: 5.0
+Stable tag: 5.0.2
 
 Change the WordPress admin email without requiring email confirmation - perfect for development and testing environments.
 
@@ -19,3 +19,11 @@ Once activated, an administrator can change the admin email from the Settings >>
 
 == Installation ==
 Clone or copy the file into your plugins directory, then activate the plugin from the admin menu.
+
+== Changelog ==
+
+= 5.0.2 =
+* Declares compatibility with WordPress 7.1 after successful testing on WordPress 7.1.3.
+
+= 5.0.1 =
+* Maintenance release with synchronized plugin and WordPress.org version metadata.
